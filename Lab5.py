@@ -1,7 +1,3 @@
-# Sophie Alfonso UFID 94169614
-# COP3502C Class 11724
-# Lab 5: Number Converter
-
 # This function converts a hex digit to its decimal equivalent
 def hex_char_decode(digit):
     hex_assign = {'a':10, 'b':11, 'c':12, 'd':13, 'e':14, 'f':15}       # A dictionary of hex conversions
